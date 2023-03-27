@@ -1,7 +1,12 @@
+![masterhead](https://static.vecteezy.com/system/resources/previews/008/689/803/original/data-analysis-banner-web-icon-data-filter-pie-chart-database-flow-chart-reveal-evaluate-decrease-velocity-illustration-concept-vector.jpg)
 <h1 align="center">Hi 👋, I'm Dhanraj Malagar</h1>
 <h3 align="center">A passionate data analyst professional from India having Excellent understanding and proficiency of platforms for effective data analyses, including SQL, Sheets, Excel, data visualization. Strong communication, organizational, and analytical skill</h3>
+<p align="center">
 <img src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" height="400" width="550">
+</p>
 
+
+  
 - 💻 Recently Completed the [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/PHRSM9ZEYAZ6)
 
 - 💡 Excellent understanding of [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/certificate/UC-018d2936-82b9-4400-8bed-cb26baea080b/)
